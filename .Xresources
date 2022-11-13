@@ -1,0 +1,47 @@
+urxvt.scrollBar: false
+
+!Fonts
+
+urxvt.font: xft:Iosevka:pixelsize=14,style=regular
+urxvt.boldFont: xft:Iosevka:pixelsize=14,style=bold
+urxvt.letterSpace: -1
+
+! special
+*.foreground:   #434343
+*.background:   #ffffff
+*.cursorColor:  #434343
+
+! black
+*.color0:       #8c8c8c
+*.color8:       #8c8c8c
+
+! red
+*.color1:       #494949
+*.color9:       #4f4f4f
+
+! green
+*.color2:       #555555
+*.color10:      #5b5b5b
+
+! yellow
+*.color3:       #616161
+*.color11:      #676767
+
+! blue
+*.color4:       #6d6d6d
+*.color12:      #727272
+
+! magenta
+*.color5:       #787878
+*.color13:      #7e7e7e
+
+! cyan
+*.color6:       #848484
+*.color14:      #8a8a8a
+
+! white
+*.color7:       #909090
+*.color15:      #969696
+
+
+
